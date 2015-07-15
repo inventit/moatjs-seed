@@ -32,6 +32,14 @@ Describe about the model defined in `package.json`.
 
 ## Change History
 
+### 1.0.2 Jul 15, 2015
+
+- Fixed invalid devDependency in package.json
+
+### 1.0.1 Jul 15, 2015
+
+- Fixed invalid repository url in package.json
+
 ### 1.0.0 Jun 24, 2015
 
 - Initial public release
