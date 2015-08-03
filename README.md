@@ -32,6 +32,10 @@ Describe about the model defined in `package.json`.
 
 ## Change History
 
+### 1.0.3 Aug 3, 2015
+
+- Fixed invalid dependency in package.json
+
 ### 1.0.2 Jul 15, 2015
 
 - Fixed invalid devDependency in package.json
